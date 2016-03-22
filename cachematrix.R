@@ -1,9 +1,12 @@
-## Put comments here that give an overall description of what your
-## functions do
+##insted of calculating the inverse of the matrix whenever asked 
+##calculate and store in the cache to return next time
 
-## Write a short comment describing this function
 
+## create list matric object that can
+## get/set value of matrix
+## get/set value of inverse
 makeCacheMatrix <- function(x = matrix()) {
+	
 
 }
 
